@@ -1,0 +1,13 @@
+/*Hoja de estilo personalizada*/
+/*CSS: cascading style sheet*/
+
+/* selector de etiqueta*/
+body {
+    background-color: #009780;
+    color: #354B45;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+main{
+    text-align: center;
+}
